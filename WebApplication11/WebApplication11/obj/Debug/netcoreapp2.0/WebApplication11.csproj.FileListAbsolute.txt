@@ -1,0 +1,11 @@
+C:\Users\raz levi\source\repos\WebApplication11\WebApplication11\bin\Debug\netcoreapp2.0\WebApplication11.deps.json
+C:\Users\raz levi\source\repos\WebApplication11\WebApplication11\bin\Debug\netcoreapp2.0\WebApplication11.runtimeconfig.json
+C:\Users\raz levi\source\repos\WebApplication11\WebApplication11\bin\Debug\netcoreapp2.0\WebApplication11.runtimeconfig.dev.json
+C:\Users\raz levi\source\repos\WebApplication11\WebApplication11\bin\Debug\netcoreapp2.0\WebApplication11.dll
+C:\Users\raz levi\source\repos\WebApplication11\WebApplication11\obj\Debug\netcoreapp2.0\WebApplication11.csprojResolveAssemblyReference.cache
+C:\Users\raz levi\source\repos\WebApplication11\WebApplication11\obj\Debug\netcoreapp2.0\WebApplication11.csproj.CoreCompileInputs.cache
+C:\Users\raz levi\source\repos\WebApplication11\WebApplication11\obj\Debug\netcoreapp2.0\WebApplication11.AssemblyInfoInputs.cache
+C:\Users\raz levi\source\repos\WebApplication11\WebApplication11\obj\Debug\netcoreapp2.0\WebApplication11.AssemblyInfo.cs
+C:\Users\raz levi\source\repos\WebApplication11\WebApplication11\bin\Debug\netcoreapp2.0\WebApplication11.pdb
+C:\Users\raz levi\source\repos\WebApplication11\WebApplication11\obj\Debug\netcoreapp2.0\WebApplication11.dll
+C:\Users\raz levi\source\repos\WebApplication11\WebApplication11\obj\Debug\netcoreapp2.0\WebApplication11.pdb
