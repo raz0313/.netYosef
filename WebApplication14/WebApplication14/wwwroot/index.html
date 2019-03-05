@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title></title>
+	<link rel="stylesheet" href="Style.css" />
+	<script src="helpFunc.js"></script>
+	<script>
+		var message;
+
+		const supppliersFields = [
+			{ fieldName: "SupplierID", title: "ID", className: "", fieldType: "foreign_key", foreignTable: { table: "", valueColumn: "", displayColumn: "" } },
+			{ fieldName: "CompanyName", title: "CompanyName", className: "", fieldType: "text", foreignTable: { table: "", valueColumn: "", displayColumn: "" } },
+			{ fieldName: "ContactName", title: "ContactName", className: "", fieldType: "text", foreignTable: { table: "", valueColumn: "", displayColumn: "" } },
+			{ fieldName: "ContactTitle", title: "ContactTitle", className: "", fieldType: "text", foreignTable: { table: "", valueColumn: "", displayColumn: "" } },
+			{ fieldName: "Address", title: "Address", className: "", fieldType: "text", foreignTable: { table: "", valueColumn: "", displayColumn: "" } },
+			{ fieldName: "City", title: "City", className: "", fieldType: "text", foreignTable: { table: "", valueColumn: "", displayColumn: "" } },
+			{ fieldName: "Region", title: "Region", className: "", fieldType: "text", foreignTable: { table: "", valueColumn: "", displayColumn: "" } },
+			{ fieldName: "PostalCode", title: "PostalCode", className: "", fieldType: "text", foreignTable: { table: "", valueColumn: "", displayColumn: "" } },
+			{ fieldName: "Country", title: "Country", className: "", fieldType: "text", foreignTable: { table: "", valueColumn: "", displayColumn: "" } },
+			{ fieldName: "Phone", title: "Phone", className: "", fieldType: "number", foreignTable: { table: "", valueColumn: "", displayColumn: "" } },
+			{ fieldName: "Fax", title: "Fax", className: "", fieldType: "number", foreignTable: { table: "", valueColumn: "", displayColumn: "" } }
+		];
+		var suppliers = new TableGenerator(supppliersFields, "divBody" );
+		//const productsFields = [
+		//	{ fieldName: "", title: "", className: "", fieldType: "foreign_key", foreignTable: { table: "", valueColumn: "", displayColumn: "" } }
+		//];
+		// products = new TableGenerator(productsFields);
+		function init() {
+			message = new Message('divMessage');
+			message.show('please wait');
+			suppliers.tableRender();
+
+		}
+	</script>
+</head>
+<body onload="init()">
+	<div id="divBody"></div>
+	<div id="divMessage"></div>
+</body>
+</html>
