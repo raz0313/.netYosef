@@ -1,0 +1,11 @@
+c:\users\raz levi\source\repos\WebApplication16\WebApplication16\bin\Debug\netcoreapp2.0\WebApplication16.deps.json
+c:\users\raz levi\source\repos\WebApplication16\WebApplication16\bin\Debug\netcoreapp2.0\WebApplication16.runtimeconfig.json
+c:\users\raz levi\source\repos\WebApplication16\WebApplication16\bin\Debug\netcoreapp2.0\WebApplication16.runtimeconfig.dev.json
+c:\users\raz levi\source\repos\WebApplication16\WebApplication16\bin\Debug\netcoreapp2.0\WebApplication16.dll
+c:\users\raz levi\source\repos\WebApplication16\WebApplication16\bin\Debug\netcoreapp2.0\WebApplication16.pdb
+c:\users\raz levi\source\repos\WebApplication16\WebApplication16\obj\Debug\netcoreapp2.0\WebApplication16.csprojResolveAssemblyReference.cache
+c:\users\raz levi\source\repos\WebApplication16\WebApplication16\obj\Debug\netcoreapp2.0\WebApplication16.csproj.CoreCompileInputs.cache
+c:\users\raz levi\source\repos\WebApplication16\WebApplication16\obj\Debug\netcoreapp2.0\WebApplication16.AssemblyInfoInputs.cache
+c:\users\raz levi\source\repos\WebApplication16\WebApplication16\obj\Debug\netcoreapp2.0\WebApplication16.AssemblyInfo.cs
+c:\users\raz levi\source\repos\WebApplication16\WebApplication16\obj\Debug\netcoreapp2.0\WebApplication16.dll
+c:\users\raz levi\source\repos\WebApplication16\WebApplication16\obj\Debug\netcoreapp2.0\WebApplication16.pdb
